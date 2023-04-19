@@ -28,4 +28,5 @@ Preapare it by hard and try to practise AOA Codes in lab also.
 
 # Other
 For the Students Interested in Open Source feel free tO Contribute on Codes,Files,Typos,etc.
-Check Out my other Repository You will even find the project That you can redesign or redevelop and show them in your MPR.
+Check Out my other Repositories in that you will also find the projects.
+That you can redesign or redevelop and show them in your MPR.
